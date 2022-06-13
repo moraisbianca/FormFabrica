@@ -1,0 +1,22 @@
+D:\Desenvolvimento (2°ds)\Fabrica\bin\Debug\Fabrica.exe.config
+D:\Desenvolvimento (2°ds)\Fabrica\bin\Debug\Fabrica.exe
+D:\Desenvolvimento (2°ds)\Fabrica\bin\Debug\Fabrica.pdb
+D:\Desenvolvimento (2°ds)\Fabrica\obj\Debug\Fabrica.csproj.AssemblyReference.cache
+D:\Desenvolvimento (2°ds)\Fabrica\obj\Debug\Fabrica.csproj.SuggestedBindingRedirects.cache
+D:\Desenvolvimento (2°ds)\Fabrica\obj\Debug\Fabrica.Form1.resources
+D:\Desenvolvimento (2°ds)\Fabrica\obj\Debug\Fabrica.Properties.Resources.resources
+D:\Desenvolvimento (2°ds)\Fabrica\obj\Debug\Fabrica.csproj.GenerateResource.cache
+D:\Desenvolvimento (2°ds)\Fabrica\obj\Debug\Fabrica.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento (2°ds)\Fabrica\obj\Debug\Fabrica.exe
+D:\Desenvolvimento (2°ds)\Fabrica\obj\Debug\Fabrica.pdb
+E:\Curso Técnico\2 ano\Desenv. Sist\Fabrica\bin\Debug\Fabrica.exe.config
+E:\Curso Técnico\2 ano\Desenv. Sist\Fabrica\bin\Debug\Fabrica.exe
+E:\Curso Técnico\2 ano\Desenv. Sist\Fabrica\bin\Debug\Fabrica.pdb
+E:\Curso Técnico\2 ano\Desenv. Sist\Fabrica\obj\Debug\Fabrica.csproj.AssemblyReference.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\Fabrica\obj\Debug\Fabrica.csproj.SuggestedBindingRedirects.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\Fabrica\obj\Debug\Fabrica.Form1.resources
+E:\Curso Técnico\2 ano\Desenv. Sist\Fabrica\obj\Debug\Fabrica.Properties.Resources.resources
+E:\Curso Técnico\2 ano\Desenv. Sist\Fabrica\obj\Debug\Fabrica.csproj.GenerateResource.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\Fabrica\obj\Debug\Fabrica.csproj.CoreCompileInputs.cache
+E:\Curso Técnico\2 ano\Desenv. Sist\Fabrica\obj\Debug\Fabrica.exe
+E:\Curso Técnico\2 ano\Desenv. Sist\Fabrica\obj\Debug\Fabrica.pdb
